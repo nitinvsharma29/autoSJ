@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.selauto.MyTest" duration-ms="13010" started-at="2017-07-29T13:46:06Z" finished-at="2017-07-29T13:46:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13010" started-at="2017-07-29T13:46:06Z" finished-at="2017-07-29T13:46:19Z">
+      <class name="com.selauto.MyTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.selauto.MyTest@79b4d0f]" name="firstTest" duration-ms="12900" started-at="2017-07-29T19:16:06Z" finished-at="2017-07-29T19:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- com.selauto.MyTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.selauto.MyTest -->
+</testng-results>
