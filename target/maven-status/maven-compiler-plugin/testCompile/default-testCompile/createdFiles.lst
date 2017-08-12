@@ -1,1 +1,5 @@
-com\selauto\MyTest.class
+com\selauto\tests\BaseTest.class
+com\selauto\tests\MyTest.class
+com\selauto\utils\Log.class
+com\selauto\tests\My2Test.class
+com\selauto\pages\SearchPage.class

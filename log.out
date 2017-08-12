@@ -1,10 +1,3 @@
-2017-07-29 19:13:21 INFO  Log:29 - Opening https://www.google.at
-2017-07-29 19:13:27 INFO  Log:29 - Closing browser.
-2017-07-29 19:16:06 INFO  Log:29 - Initializing Chrome browser.
-2017-07-29 19:16:12 INFO  Log:29 - Opening https://www.google.at
-2017-07-29 19:16:17 INFO  Log:29 - Closing browser.
-2017-08-02 01:27:09 INFO  Log:29 - Initializing Chrome browser.
-2017-08-02 01:27:23 INFO  Log:29 - Opening https://www.google.at
-2017-08-02 01:34:20 INFO  Log:29 - Initializing Chrome browser.
-2017-08-02 01:34:27 INFO  Log:29 - Opening https://www.google.at
-2017-08-02 01:34:31 INFO  Log:29 - Closing browser.
+2017-08-12 18:07:58 INFO  Log:29 - Initializing Chrome browser.
+2017-08-12 18:08:04 INFO  Log:29 - Opening https://www.google.at
+2017-08-12 18:08:11 INFO  Log:29 - Closing browser.

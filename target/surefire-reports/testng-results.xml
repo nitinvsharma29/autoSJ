@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.selauto.MyTest" duration-ms="13010" started-at="2017-07-29T13:46:06Z" finished-at="2017-07-29T13:46:19Z">
+  <suite name="com.selauto.tests.MyTest" duration-ms="115232" started-at="2017-08-12T12:06:59Z" finished-at="2017-08-12T12:08:54Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="13010" started-at="2017-07-29T13:46:06Z" finished-at="2017-07-29T13:46:19Z">
-      <class name="com.selauto.MyTest">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.selauto.MyTest@79b4d0f]" name="firstTest" duration-ms="12900" started-at="2017-07-29T19:16:06Z" finished-at="2017-07-29T19:16:19Z">
+    <test name="Command line test" duration-ms="115232" started-at="2017-08-12T12:06:59Z" finished-at="2017-08-12T12:08:54Z">
+      <class name="com.selauto.tests.MyTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.selauto.tests.MyTest@79b4d0f]" name="firstTest" duration-ms="113867" started-at="2017-08-12T17:37:00Z" finished-at="2017-08-12T17:38:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-      </class> <!-- com.selauto.MyTest -->
+      </class> <!-- com.selauto.tests.MyTest -->
     </test> <!-- Command line test -->
-  </suite> <!-- com.selauto.MyTest -->
+  </suite> <!-- com.selauto.tests.MyTest -->
 </testng-results>
